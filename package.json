@@ -1,0 +1,17 @@
+{
+  "name": "express-ex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "Start",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "jsx-view-engine": "^1.0.0"
+  }
+}
